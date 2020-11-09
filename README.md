@@ -47,4 +47,4 @@ We can slightly modify this to turn this in to an online face recognition
  Input image Aaron_Sorkin_0001
  
  Output 
- ![]()
+ ![](https://github.com/TalhaSheikh-dev/Face-recognition-with-facenet-and-SVM-in-Keras/blob/main/images/predicted.PNG)
