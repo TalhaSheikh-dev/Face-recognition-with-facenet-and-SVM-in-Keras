@@ -14,7 +14,7 @@ We will step wise go through how the app works.
 # Downloads
 - LFW dataset is available here http://vis-www.cs.umass.edu/lfw/ and if you want to download with the direct link http://vis-www.cs.umass.edu/lfw/lfw.tgz
   Extract the LFW dataset in the lfw folder 
-- Pretrained model for keras .................
+- Pretrained model for keras https://drive.google.com/file/d/17X0Dp5xc2MI8h9r6wDkLPB9r8GmxF7om/view?usp=sharing
 - I have trained my model on first 100 people and have placed its .npz file in the above given link. If you want to train the model on your custom dataset or full LFW dataset
 you can and I will explain below how.
 
@@ -45,7 +45,7 @@ We can slightly modify this to turn this in to an online face recognition
 
 # Results
 
- - Output 
+ # Output 
  ![](https://github.com/TalhaSheikh-dev/Face-recognition-with-facenet-and-SVM-in-Keras/blob/main/images/predicted.PNG)
  
 
