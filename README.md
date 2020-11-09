@@ -44,10 +44,13 @@ Moreover skewing of faces and pre processing the images might increase the accur
 We can slightly modify this to turn this in to an online face recognition
 
 # Results
-- Input image: Aaron_Sorkin_0001
- 
+
  - Output 
  ![](https://github.com/TalhaSheikh-dev/Face-recognition-with-facenet-and-SVM-in-Keras/blob/main/images/predicted.PNG)
+ 
+
+- Input image: Aaron_Sorkin_0001
+ 
  
  # Directory structure
   ![](https://github.com/TalhaSheikh-dev/Face-recognition-with-facenet-and-SVM-in-Keras/blob/main/images/dir.PNG)
