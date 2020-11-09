@@ -44,4 +44,7 @@ Moreover skewing of faces and pre processing the images might increase the accur
 We can slightly modify this to turn this in to an online face recognition
 
 # Results
-
+ Input image Aaron_Sorkin_0001
+ 
+ Output 
+ ![]()
