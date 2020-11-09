@@ -18,7 +18,7 @@ We will step wise go through how the app works.
 - I have trained my model on first 100 people and have placed its .npz file in the above given link. If you want to train the model on your custom dataset or full LFW dataset
 you can and I will explain below how.
 
-# How does it works/Instalation 
+# How does it works/Installation 
 face_recogntion.py does the face detection and extraction as mentioned above.
 
 After this we provide the dataset to facenet model to extract feature vector for all
